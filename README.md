@@ -1,1 +1,1 @@
-# myFirstProjeckt
+# myFirstProject
